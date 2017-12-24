@@ -16,7 +16,7 @@
       "LISTENING_PORT"  : "30303",
       "INSTANCE_NAME"   : "",
       "CONTACT_DETAILS" : "",
-      "WS_SERVER"       : "wss://eth.joys.digital",
+      "WS_SERVER"       : "ws://eth.joys.digital:3000",
       "WS_SECRET"       : "XXXXXXXXXXXXXXXXXXXXXX",
       "VERBOSITY"       : 2
     }
